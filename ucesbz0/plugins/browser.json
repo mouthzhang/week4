@@ -1,0 +1,52 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "phonegapapp"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "phonegapapp"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "phonegapapp"
+    }
+  }
+}
