@@ -76,4 +76,13 @@
 		},
 			}).addTo(mymap);
 		mymap.fitBounds(earthquakelayer.getBounds());
+
+		}
+		
+function getLocation() {
+navigator.geolocation.getCurrentPosition(getPosition);
+}
+function getPosition(position) {
+L.marker([position.coords.latitude, position.coords.longitude]).addTo(mymap)
+
 }
